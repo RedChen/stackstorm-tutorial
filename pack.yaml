@@ -8,5 +8,7 @@ keywords:
     - st2
     - encore
 version: 0.1.0
+python_versions:
+  - "3"
 author: Encore Technologies
 email: code@encore.tech
